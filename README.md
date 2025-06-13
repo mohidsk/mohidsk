@@ -100,10 +100,6 @@ I thrive in collaborative environments, continuously expanding my knowledge and 
 ## 📊 My Profile Snapshot
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohidsk&label=Profile%20views&color=0e75b6&style=flat" alt="mohidsk" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidsk&theme=radical&hide_border=true" />
 </p>
 
