@@ -17,7 +17,7 @@
 - 🌟 Exploring new technologies & tools every day
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
 </p>
 
 ---
