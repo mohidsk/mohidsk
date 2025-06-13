@@ -92,7 +92,7 @@
 - 🛵 Traveling & Bike Riding
 
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="400" />
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400" />
 </p>
 
 ---
