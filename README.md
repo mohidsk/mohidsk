@@ -1,23 +1,29 @@
 ## Hi there, I'm Shaik Sadiq! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+%26+Web+Developer;SDE+Intern+%40ShortSqueeze;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+%26+Web+Developer;Backend+%26+gRPC+Enthusiast;SDE+Intern+%40ShortSqueeze;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 📝 About Me:
-- 🎓 B.Tech CSE-AIML (2025)
+- 🎓 **B.Tech in CSE-AIML (Graduating 2025)** - Raghu Engineering College, Visakhapatnam
 - 🚀 Passionate about Mobile & Web Development
 - 👨‍💼 Currently SDE Intern @ ShortSqueeze
-- 🔍 Always exploring new technologies & tools
+- 🌟 Exploring new technologies & tools every day
+
+---
+
+### 🎯 Achievements
+- 🌊 Participated in NSTL Science Event 2022
+- 🔧 Ideation 2023 (College Event)
 
 ---
 
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,go,python,docker,git,html,css,figma,js" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,go,python,docker,git,html,css,figma,js,grpc" />
 </p>
 
 ---
@@ -25,9 +31,10 @@
 ### 📅 Experience
 
 - **SHORTSQUEEZE PRIVATE LIMITED (SDE Intern)**
-  - Flutter Mobile Development
-  - Next.js Web Development
-  - Backend Services with Go, gRPC
+  - Cross-Platform Flutter Mobile Development
+  - Web Development with Next.js & React.js
+  - Backend development with Go & gRPC
+  - Worked on Podium Pe, Inspire Mank, Cybercell, PodiumPe Website
 
 - **Metacomic (Project Intern)**
   - Flutter Cross-Platform Mobile Development
@@ -43,10 +50,33 @@
 
 ---
 
-### 🎯 My GitHub Stats
+### 🌟 Fun Facts & Hobbies
+- 🎮 Video Gamer
+- 🏋️ Bodybuilding & Calisthenics
+- 🛳️ Bike Rider & Traveler
+
+---
+
+### 💻 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidsk&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohidsk&show_icons=true&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidsk&theme=radical&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidsk&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🔧 Coding Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohidsk&theme=radical" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohidsk&theme=radical" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohidsk&theme=radical" />
 </p>
 
 ---
@@ -67,4 +97,6 @@
 
 ---
 
-_\u2728 Always open to collaborate and learn new things!_
+_✨ Always open to collaborate, contribute, and build amazing things!_
+
+---
