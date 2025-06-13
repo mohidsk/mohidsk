@@ -1,8 +1,11 @@
-## Hi there, I'm Shaik Sadiq! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&speed=50&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaik+Sadiq!;Full-Stack+Developer;Flutter+%26+Web+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+%26+Web+Developer;Backend+%26+gRPC+Enthusiast;SDE+Intern+%40ShortSqueeze;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&speed=50&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+%26+Web+Developer;Backend+%26+gRPC+Enthusiast;SDE+Intern+%40ShortSqueeze;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
