@@ -17,7 +17,7 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,go,python,docker,git,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,go,python,docker,git,html,css,figma,js" />
 </p>
 
 ---
@@ -36,10 +36,10 @@
 
 ### 🔹 Featured Projects
 
-- **[Podium Pe](https://www.podiumpe.com/)** *(Flutter, Go, gRPC, Docker)*
-- **[Inspire Mank](https://play.google.com/store/apps/details?id=space.shortsqueeze.inspire.inspire_scholarship)** *(Flutter, Provider)*
-- **[Cybercell](http://139.59.58.230:3001/)** *(Next.js, Go, Python, Docker)*
-- **Lights Out** *(Next.js, Docker)*
+- **[Podium Pe](https://www.podiumpe.com/)** *(Flutter, Go, gRPC, Docker, Python, Sentry, Ngrok)*
+- **[PodiumPe Website](https://www.podiumpe.com/download-now.html)** *(HTML5, CSS3, JavaScript)*
+- **[Inspire Mank](https://play.google.com/store/apps/details?id=space.shortsqueeze.inspire.inspire_scholarship)** *(Flutter, Provider, Docker, Ngrok)*
+- **[Cybercell](http://139.59.58.230:3001/)** *(Next.js, Go, Python, Docker, Ngrok)*
 
 ---
 
@@ -58,7 +58,7 @@
 ### 📢 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemanth-srinivas-a20b21231/" target="_blank">
+  <a href="https://www.linkedin.com/in/shaik-sadiq-890078204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ssk138848@gmail.com">
