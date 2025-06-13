@@ -1,22 +1,17 @@
 ## Hi there, I'm Shaik Sadiq! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 Full-Stack Developer passionate about building scalable mobile and web applications.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400" />
-</p>
-
 ---
 
 ### 📝 About Me:
-- 🎓 **B.Tech in CSE-AIML (Graduating 2025)** - Raghu Engineering College, Visakhapatnam
-- 🚀 Specializing in Flutter, React.js, Next.js, Go, and backend systems using gRPC
-- 👨‍💼 SDE Intern @ ShortSqueeze
-- 🌱 Continuously learning and contributing to innovative projects
-- 💡 Believer in clean code, collaboration, and lifelong learning
+I'm a highly motivated Full-Stack Developer with a strong passion for developing scalable, efficient, and user-friendly mobile and web applications. My expertise lies in Flutter, React.js, Next.js, Go, and building robust backend systems with gRPC. I thrive in collaborative environments, continuously expanding my knowledge and contributing to innovative projects.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+---
+
+### 🎓 Education
+- **B.Tech in Computer Science Engineering - AI & ML**  
+  *Raghu Engineering College, Visakhapatnam (Graduating 2025)*  
+  - CGPA: 7.51 / 10
 
 ---
 
