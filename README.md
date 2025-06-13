@@ -1,23 +1,21 @@
-## Hi there, I'm Shaik Sadiq! 👋
+## Hi there, I'm Shaik Sadiq! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
+Full-Stack Developer passionate about building scalable mobile and web applications.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&speed=50&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaik+Sadiq!;Full-Stack+Developer;Flutter+%26+Web+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400" />
 </p>
 
 ---
 
 ### 📝 About Me:
 - 🎓 **B.Tech in CSE-AIML (Graduating 2025)** - Raghu Engineering College, Visakhapatnam
-- 🚀 Passionate about Mobile & Web Development
-- 👨‍💼 Currently SDE Intern @ ShortSqueeze
-- 🌟 Exploring new technologies & tools every day
+- 🚀 Specializing in Flutter, React.js, Next.js, Go, and backend systems using gRPC
+- 👨‍💼 SDE Intern @ ShortSqueeze
+- 🌱 Continuously learning and contributing to innovative projects
+- 💡 Believer in clean code, collaboration, and lifelong learning
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
@@ -25,10 +23,6 @@
 ### 🎯 Achievements
 - 🌊 Participated in NSTL Science Event 2022
 - 🔧 Ideation 2023 (College Event)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 
 ---
 
