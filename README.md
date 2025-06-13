@@ -5,6 +5,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%7C+React+%7C+Next.js+%7C+Go+%7C+Python+Developer;Building+Scalable+Web+%26+Mobile+Apps;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
 </h3>
+
 ---
 
 ### 📝 About Me:
