@@ -1,6 +1,10 @@
-## Hi there, I'm Shaik Sadiq! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
-Full-Stack Developer passionate about building scalable mobile and web applications.
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> Hi there, I'm Shaik Sadiq!
+</h1>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+%7C+React+%7C+Next.js+%7C+Go+%7C+Python+Developer;Building+Scalable+Web+%26+Mobile+Apps;Let's+Build+Something+Amazing+Together!" alt="Typing SVG" />
+</h3>
 ---
 
 ### 📝 About Me:
