@@ -57,14 +57,23 @@ I'm a **problem solver** who loves turning complex ideas into practical software
 
 ---
 
-### 🚀 Featured Projects
+### 🔹 Featured Projects
 
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [**Podium Pe — Mobile App**](https://www.podiumpe.com/download-now.html) | Cross-platform mobile app | Flutter, Go, gRPC, Docker, Python, Ngrok |
-| [**Podium Pe - Website**](https://www.podiumpe.com) | Company website | HTML5, CSS3, JavaScript |
-| [**Inspire Manak — Mobile App**](https://play.google.com/store/apps/details?id=space.shortsqueeze.inspire.inspire_scholarship) | Scholarship app with state management | Flutter, Provider, Docker, Ngrok |
-| **CYBERCELL — Government Web App** | Government web app | Next.js, Go, Python, Docker, Ngrok |
+- **[Podium Pe — Mobile App](https://www.podiumpe.com/download-now.html)**
+  - Cross-platform mobile application built with Flutter and modern backend technologies
+  - Tech Stack: Flutter, Go, gRPC, Docker, Python, Ngrok
+
+- **[Podium Pe - Website](https://www.podiumpe.com)**
+  - Professional company website with modern web technologies
+  - Tech Stack: HTML5, CSS3, JavaScript
+
+- **[Inspire Manak — Mobile App](https://play.google.com/store/apps/details?id=space.shortsqueeze.inspire.inspire_scholarship)**
+  - Cross-platform scholarship application with state management
+  - Tech Stack: Flutter, Provider, Docker, Ngrok
+
+- **[CYBERCELL — Government Web App](#)**
+  - Government web application with modern full-stack architecture
+  - Tech Stack: Next.js, Go, Python, Docker, Ngrok
 
 ---
 
