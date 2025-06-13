@@ -107,9 +107,6 @@ I thrive in collaborative environments, continuously expanding my knowledge and 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohidsk&theme=react-dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/blob/main/images/code.gif?raw=true" width="400" />
-</p>
 
 ---
 
