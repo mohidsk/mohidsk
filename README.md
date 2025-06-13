@@ -57,26 +57,24 @@
 
 ---
 
-### 💻 My GitHub Stats
+### 📊 My Profile Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohidsk&show_icons=true&theme=radical&hide_border=true" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidsk&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidsk&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🔧 Coding Activity
+### 🔧 Developer Animations
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohidsk&theme=radical" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohidsk&theme=radical" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohidsk&theme=radical" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200" />
+  <br><br>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <br><br>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/3643904/comp_2.gif" width="400" />
 </p>
 
 ---
