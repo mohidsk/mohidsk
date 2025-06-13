@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&speed=50&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaik+Sadiq!;Full-Stack+Developer;Flutter+%26+Web+Developer" alt="Typing SVG" />
-</p>
+<h2 align="center">Hi there, I'm Shaik Sadiq! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h2>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&speed=50&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Flutter+%26+Web+Developer;Backend+%26+gRPC+Enthusiast;SDE+Intern+%40ShortSqueeze;Always+Learning+%26+Building" alt="Typing SVG" />
