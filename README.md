@@ -65,7 +65,7 @@
 
 ---
 
-### 🔧 Developer Animations
+### 🎨 Animated Styling
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
@@ -75,6 +75,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
   <br><br>
   <img src="https://cdn.dribbble.com/users/730703/screenshots/3643904/comp_2.gif" width="400" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Building+Something+Awesome...;Coding+is+Life...;Learning+Every+Day!" />
+  <br><br>
+  <img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="400" />
+  <br><br>
+  <img src="https://github.com/ritik307/ritik307/blob/main/images/code.gif?raw=true" width="400" />
 </p>
 
 ---
